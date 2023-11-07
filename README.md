@@ -34,7 +34,6 @@ This websiteis 100% responsive cross-browser template, compatible on all devices
 ------------------------------------------------------------------------------------------------
 
 ## Screenshots
-------------------------------------------------------------------------------------------------
 
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (106).png">
 
