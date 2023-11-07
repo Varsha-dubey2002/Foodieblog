@@ -31,15 +31,12 @@ This websiteis 100% responsive cross-browser template, compatible on all devices
 
 - Static Web App
 - Web Apps
-------------------------------------------------------------------------------------------------
+
 
 ## Screenshots
 
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (106).png">
 
-------------------------------------------------------------------------------------------------
-
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (107).png">
-------------------------------------------------------------------------------------------------
 
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (108).png">
