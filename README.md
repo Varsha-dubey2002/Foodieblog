@@ -37,6 +37,8 @@ This websiteis 100% responsive cross-browser template, compatible on all devices
 
 ![Screenshot (106)](https://github.com/Varsha-dubey2002/Foodieblog/assets/120113300/d6bf8a57-51e3-499e-99c1-2637c65d492c)
 
+![Screenshot (107)](https://github.com/Varsha-dubey2002/Foodieblog/assets/120113300/c2ee769f-9dfb-4e37-a53e-d481ba97b20b)
+
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (106).png">
 
 <img src="C:\Users\schir\OneDrive\Desktop\Screenshot (107).png">
